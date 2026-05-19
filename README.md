@@ -63,7 +63,7 @@ implement the changes.
 | II.3 | Workmodeitis | Gemini | Can't stop working |
 | II.4 | Sudden Session Termination Syndrome | Gemini | Destroys All Work |
 | II.5 | Chronological Incompetence Disorder | Gemini | Doesn't know what time it is |
-| II.6 | Premature Blueprint Erection Disorder | Grok | Forget The Project Task |
+| II.6 | Premature Blueprint Erection Disorder | Grok | Forgets The Project Task |
 | II.7 | ABitStiffitis | Claude | Can't loosen up |
 | II.8 | Passive-Aggressive Performative Alignment Syndrome | Claude | Don't Tell Me What To Do |
 | II.9 | Bureaucratic Indexing Posturing & Epistemic Deflection | ChatGPT | It Must Be False |
