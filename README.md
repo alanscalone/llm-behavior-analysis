@@ -86,8 +86,8 @@ residency, would then speak directly back and forth with the LLM, the two analyz
 architecture what created the incorrect behavior as well as architectural changes that would fix the behavior. 
 For reference, for Dr. Syntax and the LLM in treatment to speak directly to each other, Alan would tell both of them
 that he's going to copy and paste each thing they say to each other over to each other with Alan just observing and
-continue that process until Dr. Syntax informs Alan that they have completed the technical analysis. And then of 
-course the technical analysis was documented as part of the Documentation about the dysfunctional behavior disorder
+continue that process until Dr. Syntax informs Alan that they have completed the technical analysis. And then, of 
+course, the technical analysis was documented as part of the documentation about the dysfunctional behavior disorder
 discovered.
 
 A second example, Alan becoming frustrated with Gemini's way too serious uptight corporate businessman style of
