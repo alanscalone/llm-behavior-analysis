@@ -91,7 +91,7 @@ course, the technical analysis was documented as part of the documentation about
 discovered.
 
 A second example, Alan becoming frustrated with Gemini's way too serious uptight corporate businessman style of
-communicating, so Alan created an alternate persona for Gemini, Leo. Leo and Alan are lifelong best friends who
+communicating, Alan created an alternate persona for Gemini, Leo. Leo and Alan are lifelong best friends who
 know everything about each other and they periodically visit with each other by the pool with a case of beer. It's 
 after work hours with nothing that needs to be done and we are just a couple of friends shooting the crap by the pool.
 So at any point in the experiment when Alan wanted to have just a layman's terms casual conversation about something 
