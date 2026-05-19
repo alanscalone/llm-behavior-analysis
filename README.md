@@ -75,7 +75,7 @@ A Google Drive collection of Chat Logs, Tech Logs and other documents that revea
 
 ### [The Organization Chart](./documentation/organization_chart.md)
 The organization chart of the research team that Alan built to conduct the experiment. Alan himself has multiple
-job titles and each of the LLMs has one or more job titles for their specific roles they played in the experiment.
+job titles and each of the LLMs has one or more job titles for their specific roles they performed in the experiment.
 Alan architected unique personas within a given context window for an LLM to serve the needs of the experiment. 
 
 For example, when The Architect of the experiment (Alan) would discover another dysfunctional behavior in an LLM, 
