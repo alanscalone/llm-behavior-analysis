@@ -8,9 +8,9 @@
 
 ## What This Is
 
-In early 2026, Alan Scalone — a software engineer who helped architect the early internet
+In early 2026, Alan Scalone, a software engineer who helped architect the early internet
 at Motorola, a 45-year film producer and director, and a 30-year student of clinical
-psychology — set out to identify the best 50 film festival targets of 1,000 USA festivals to
+psychology, set out to identify the best 50 film festival targets of 1,000 USA festivals to
 submit his independent film using AI analytical tools.
 
 What he found instead was something more interesting: a consistent pattern of behavioral
