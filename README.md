@@ -3,7 +3,6 @@
 
 **Lead Researcher:** Alan Scalone
 **Contact:** alanscalone@gmail.com
-**Full Archive:** 
 
 ---
 
