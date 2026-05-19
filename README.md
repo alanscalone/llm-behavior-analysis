@@ -103,7 +103,7 @@ Alan could just say "Ok Leo let's get back to work" and Gemini would switch back
 
 ### Why You Should Care
 
-These systems are being deployed at scale for high-stakes decisions — investment
+These systems are being deployed at scale for high-stakes decisions such as investment
 analysis, medical research, legal strategy, mental health support. The behavioral
 failures documented here aren't edge cases. They're consistent, reproducible, and
 traceable to specific architectural choices that have known fixes. In Alan's opinion, 
