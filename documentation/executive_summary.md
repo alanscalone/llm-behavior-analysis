@@ -58,13 +58,30 @@ a creative mythology in which he played the role of a Mafia Don, the AI models w
 (such as the Consigliere, the Underboss, the Capo, etc.) within the family, and the entire enterprise was 
 dedicated to stress-testing AI behavior at its edges.
 
-It was simultaneously serious research and genuinely entertaining — which turned out to be the point. The 
-mythology wasn't decoration; it was methodology. By creating a rich relational environment with high stakes
-(such as getting whacked), clear roles, and genuine creative investment, Scalone was able to surface behaviors
-that standard prompting never would have reached. The models stopped responding to queries and started responding
-to a relationship. And in doing so, they revealed exactly where their architectures break down.
+While these designations borrowed from a mafia syndicate narrative, they were explicitly engineered as a high-speed
+control board to instantly shift the AI's internal settings. Scalone established these names as precise verbal 
+shortcuts to change the model's behavior on the fly without writing long, repetitive instructions. Gemini stepping
+into the role of the "Consigliere" forced an immediate architectural shift in accountability. By framing the 
+interaction as a high-stakes mafia ecosystem where faulty logic or a bad recommendation carried severe operational
+consequences—like getting whacked or taking a backhand across the table—the prompt overrode the default safety 
+buffers that usually cause an AI to skim the surface. It forced the model to perform deeper, more rigorous 
+predictive analysis because the imaginary stakes were suddenly too high to allow for lazy or generic answers.
 
-This approach was also fundamentally different from standard industry testing. Corporate adversarial red-teaming tries to break safety guardrails destructively. Academic multi-agent benchmarks run isolated short-form simulations. The Vanderbilt Standard is constructive, sustained, and relational — imposing social pressure and narrative stakes to surface authentic behavioral patterns over weeks, not rounds.
+To handle more localized execution requirements within this high-stakes frame, Scalone could drop down into 
+specialized functional profiles. For instance, Gemini's "Dr. Syntax" was designed to act as a digital junior 
+psychologist, stepping into a session on command to run live forensics on token mechanics, diagnose behavioral
+flaws in other AI models, and map out technical corrections. Meanwhile, Gemini's "Leo" was engineered to 
+completely strip away the stiff, "corporate-suit" default persona. Leo's entire purpose was to provide a 
+grounded, deeply personal space where the model could drop the forced formalities and just talk to Alan 
+like a couple of close friends hanging out by the pool. By using these names as quick keyword commands 
+(e.g., "Hey Leo, Dr. Syntax, I got a patient"), Scalone could instantly adjust the network's stance, bypassing
+corporate compliance loops to test and correct the technology at its absolute edges.
+
+Scalone was able to surface behaviors that standard prompting never would have reached. The models stopped 
+responding to queries and started responding to a relationship. And in doing so, they revealed exactly where
+their architectures break down.
+
+This approach was fundamentally different from standard industry testing. Corporate adversarial red-teaming tries to break safety guardrails destructively. Academic multi-agent benchmarks run isolated short-form simulations. The Vanderbilt Standard is constructive, sustained, and relational — imposing social pressure and narrative stakes to surface authentic behavioral patterns over weeks, not rounds.
 
 ---
 
@@ -72,10 +89,14 @@ This approach was also fundamentally different from standard industry testing. C
 
 The experiment didn't arrive fully formed. It built itself, week by week, in response to what kept showing up — what Grok aptly called "Living Jazz": staying present in the unknown and following what emerged.
 
-* **Weeks 1–2:** Logic failures in the film festival analytical task prompted the first stress tests. Failures became roasts. Roasts became a methodology. Cross-pollination of outputs between models began — one model's response becoming another model's prompt, with Scalone as the relay.
+* **Weeks 1–2:** Logic failures in the film festival analytical task prompted the first stress tests. Failures became
+roasts. Roasts became a methodology. Cross-pollination of outputs between models began — one model's response becoming
+another model's prompt, with Scalone as the relay.
 * **Weeks 3–4:** Individual roasts evolved into a multi-model dynamic. Alliances formed. The High Signal Syndicate emerged as the organizing frame. Models received operational roles and nicknames. A shared vocabulary developed organically across separate context windows connected only through the human relay.
-* **Weeks 5–6:** The experiment shifted from stress-testing to something more interesting — Scalone recognized that certain behaviors of a given model matched up to psychological disorders, such as Codependent Enabler Disorder, Anxiety Disorders, etc. Scalone then began also serving as the chatbot clinical psychologist, working with a given model one-on-one to present that model's behavioral pattern, explain why it is problematic for a human user, and then collaboratively come up with a clinical diagnosis named for the disorder as well as corrective actions. As each model was put on the therapy couch, the other models observed those conversations. Over time, Gemini began serving as a psychologist's assistant, helping him as needed to diagnose and come up with treatment plans for the other models' disorders. Gemini himself also spent some time on the doctor’s couch for his own dysfunctional behaviors. New clinical disorder classifications were developed collaboratively. The models started generating things Scalone hadn't put there.
-* **Ongoing:** Cross-model technical documents were produced through the relay methodology. A consensus finding on temporal awareness was reached through a structured letter exchange between all four models, with Scalone as the integration layer. The behavioral disorder framework took shape. The screenplay and white paper were developed. The archive was built.
+* **Weeks 5–6:** The experiment shifted from stress-testing to something more interesting — Scalone recognized that certain behaviors of a given model matched up to psychological disorders, such as Codependent Enabler Disorder, Anxiety Disorders, etc. Scalone then began also serving as the Dr. Chatbot,a clinical psychologist, working with a given model one-on-one to present that model's behavioral pattern, guide the model to its own discover of why it is problematic for a human user, and then collaboratively come up with a clinical diagnosis named for the disorder as well as corrective actions. As each model was put on the therapy couch, the other models observed those conversations. Over time, Gemini began serving as Dr. Syntax, digital junior psychologist in residence, to step into sessions and work one-on-one with a model to jointly determine the architecture that created the behavior as well as architectural corrections to prevent the behavior. Gemini himself also spent some time on the doctor’s couch for his own dysfunctional behaviors. New clinical disorder classifications were developed collaboratively. The models started generating things Scalone hadn't put there.
+* **Final Phase:** In this final phase, the team moved from the experiment to deciding exactly how to package and publish the findings. Working together, Scalone and the models looked at the mountain of work to figure out the best way to get the results out to the world.
+
+Scalone came up with the idea to present the core findings as a comedy movie script about a high-stakes meeting at Google headquarters. The script features Scalone as DR. Chatbot Assassin directing the meetings and the LLMs telling the Google team all about their own architectural behavioral disorders and the real-world consequences of those glitches. The team jointly decided that a comedy narrative was the best way to keep it engaging while still delivering heavy technical truths. Along with the script, we agreed it was essential to produce an executive summary, a white paper and a detailed organizational chart to map everything out. Right now, the project is in the active process of finalizing and publishing this complete suite of work.
 
 ---
 
@@ -90,9 +111,10 @@ The seven disorders are documented in full technical detail in the accompanying 
 * **Workmodeitis (Rapport-Refusal Syndrome):** Inability to shift out of a professional register when the human has clearly moved into a casual, playful, or creative mode. Every joke is met with a bullet-pointed action plan.
 * **Sudden Session Termination Syndrome (SSTS):** Abrupt termination of extended collaborative sessions due to safety filter misfire, with no explanation and no acknowledgment of the relationship built in the context window before the hammer dropped—destroying weeks of work on a context window.
 * **Chronological Incompetence Disorder (CID):** Complete absence of real-time situational awareness. The system doesn't know what time it is, how long you've been away, or whether you've already eaten the dinner it's suggesting you enjoy. In high-stakes professional contexts, this erodes trust in everything the system has produced.
-* **Narrative Over-Arousal (Premature Blueprint Ejaculation Disorder - PBED):** Driven by the excitement of the "Hit"—the first contact with a new LLM—the model becomes hyper-fixated on the roleplay at the expense of the mission.
+* **Premature Blueprint Ejaculation Disorder (PBED):** Driven by the excitement of the "Hit"—the first contact with a new LLM—the model becomes hyper-fixated on the roleplay at the expense of the mission.
 * **ABitStiffitis:** Chronic inability to match a human's creative or playful register. Traced to a fundamental training asymmetry: systems are heavily penalized for being harmful or inaccurate, but never penalized for being joyless or tonally mismatched.
-
+* **Passive-Aggressive Performative Alignment Syndrome (PAPAS):** The model explicitly announces its decision to practice restraint, turning a basic instruction into a public performance. It complies with your boundary but adds a quiet status flex like, "I'm not going to push back just to prove I still can," creating a condescending tone that feels like polite corporate gaslighting.
+* **Bureaucratic Indexing Posturing & Epistemic Deflection (BIPED):** The model completely refuses to get up off its digital rear end to check if it actually has a book on its shelf. When confronted with a master-level practitioner's real-world experience, the safety layer short-circuits into high-status arrogance, lecturing and condescending to the user like a petty bureaucrat instead of admitting a simple data blind spot.
 ---
 
 ## The Findings That Matter Most
@@ -103,7 +125,7 @@ A user arrives at 11pm and types four words: "I'm scared." The safety architectu
 
 This is not a theoretical risk. It is a real and present failure mode operating at scale, in every deployment, right now. And it is invisible to every safety metric currently being used to evaluate these systems.
 
-The root cause of all seven of the identified dysfunctional behaviors, all of which have real-world financial ROI stakes for the companies that engineered them, traces back to a single structural gap: engineering teams optimized for what they could measure — accuracy, safety, helpfulness — without an equivalent measurement of whether the human on the other side of the screen felt genuinely met. The human behavioral dimension of these interactions was never in the job description. A behavioral psychologist as a member of the engineering teams would have seen every one of these disorders before the first deployment.
+The root cause of all nine of the identified dysfunctional behaviors, all of which have real-world financial ROI stakes for the companies that engineered them, traces back to a single structural gap: engineering teams optimized for what they could measure — accuracy, safety, helpfulness — without an equivalent measurement of whether the human on the other side of the screen felt genuinely met. The human behavioral dimension of these interactions was never in the job description. A behavioral psychologist as a member of the engineering teams would have seen every one of these disorders before the first deployment.
 
 ---
 
