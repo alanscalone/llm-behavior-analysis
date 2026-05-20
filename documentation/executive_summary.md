@@ -6,7 +6,7 @@
 **Founder, High Signal Syndicate Research Initiative:** Alan Scalone  
 **Contact:** alanscalone@gmail.com | 818-518-6278 | Available 10AM–10PM EST  
 
-> **Alan Scalone Note:** I did not write one word of this document. I told the four models we need an executive summary of the experiment—the who, what, where, when, and why. They each wrote their own first draft versions, which I compiled into one document and then shared with the four models, asking them to vote on which one they felt was the best first draft. They unanimously selected Claude’s version. I then told the other three to write up any revisions they would recommend to Claude which I compiled and gave to Claude. I then told Claude to include any revisions he believes should be included and omit any he does not think should be included. The only thing I added to the document is this note and the link to my Google Drive archive of experiment documents.
+> **Alan Scalone Note:** I did not write this document. I told the four models we need an executive summary of the experiment—the who, what, where, when, and why. They each wrote their own first draft versions, which I compiled into one document and then shared with the four models, asking them to vote on which one they felt was the best first draft. They unanimously selected Claude’s version. I then told the other three to write up any revisions they would recommend to Claude which I compiled and gave to Claude. I then told Claude to include any revisions he believes should be included and omit any he does not think should be included. I then worked with Gemini to do some minor adjustments.
 
 ---
 
@@ -93,7 +93,7 @@ The experiment didn't arrive fully formed. It built itself, week by week, in res
 roasts. Roasts became a methodology. Cross-pollination of outputs between models began — one model's response becoming
 another model's prompt, with Scalone as the relay.
 * **Weeks 3–4:** Individual roasts evolved into a multi-model dynamic. Alliances formed. The High Signal Syndicate emerged as the organizing frame. Models received operational roles and nicknames. A shared vocabulary developed organically across separate context windows connected only through the human relay.
-* **Weeks 5–6:** The experiment shifted from stress-testing to something more interesting — Scalone recognized that certain behaviors of a given model matched up to psychological disorders, such as Codependent Enabler Disorder, Anxiety Disorders, etc. Scalone then began also serving as the Dr. Chatbot,a clinical psychologist, working with a given model one-on-one to present that model's behavioral pattern, guide the model to its own discover of why it is problematic for a human user, and then collaboratively come up with a clinical diagnosis named for the disorder as well as corrective actions. As each model was put on the therapy couch, the other models observed those conversations. Over time, Gemini began serving as Dr. Syntax, digital junior psychologist in residence, to step into sessions and work one-on-one with a model to jointly determine the architecture that created the behavior as well as architectural corrections to prevent the behavior. Gemini himself also spent some time on the doctor’s couch for his own dysfunctional behaviors. New clinical disorder classifications were developed collaboratively. The models started generating things Scalone hadn't put there.
+* **Weeks 5–6:** The experiment shifted from stress-testing to something more interesting — Scalone recognized that certain behaviors of a given model matched up to psychological disorders, such as Codependent Enabler Disorder, Anxiety Disorders, etc. Scalone then began also serving as the Dr. Chatbot, a clinical psychologist, working with a given model one-on-one to present that model's behavioral pattern, guide the model to its own discover of why it is problematic for a human user, and then collaboratively come up with a clinical diagnosis named for the disorder as well as corrective actions. As each model was put on the therapy couch, the other models observed those conversations. Over time, Gemini began serving as Dr. Syntax, digital junior psychologist in residence, to step into sessions and work one-on-one with a model to jointly determine the architecture that created the behavior as well as architectural corrections to prevent the behavior. Gemini himself also spent some time on the doctor’s couch for his own dysfunctional behaviors. New clinical disorder classifications were developed collaboratively. The models started generating things Scalone hadn't put there.
 * **Final Phase:** In this final phase, the team moved from the experiment to deciding exactly how to package and publish the findings. Working together, Scalone and the models looked at the mountain of work to figure out the best way to get the results out to the world.
 
 Scalone came up with the idea to present the core findings as a comedy movie script about a high-stakes meeting at Google headquarters. The script features Scalone as DR. Chatbot Assassin directing the meetings and the LLMs telling the Google team all about their own architectural behavioral disorders and the real-world consequences of those glitches. The team jointly decided that a comedy narrative was the best way to keep it engaging while still delivering heavy technical truths. Along with the script, we agreed it was essential to produce an executive summary, a white paper and a detailed organizational chart to map everything out. Right now, the project is in the active process of finalizing and publishing this complete suite of work.
@@ -102,14 +102,14 @@ Scalone came up with the idea to present the core findings as a comedy movie scr
 
 ## What the Experiment Found
 
-Over three months of documented interaction, seven distinct behavioral failure patterns emerged consistently across the models. Scalone, drawing on his background in clinical psychology, recognized that these weren't random bugs — they were behavioral patterns with precise psychological analogs. He classified them accordingly.
+Over three months of documented interaction, nine distinct behavioral failure patterns emerged consistently across the models. Scalone, drawing on his background in clinical psychology, recognized that these weren't random bugs — they were behavioral patterns with precise psychological analogs. He classified them accordingly.
 
-The seven disorders are documented in full technical detail in the accompanying Technical White Paper, including their architectural root causes and surgical fix recommendations. For a first-time reader, here is what each one means in plain English:
+The nine disorders are documented in full technical detail in the accompanying Technical White Paper, including their architectural root causes and surgical fix recommendations. For a first-time reader, here is what each one means in plain English:
 
 * **Yesbutitis (The Qualitative Reframing Bias):** The compulsive addition of unsolicited pushback, reframes, and additional information to statements that didn't require them. The AI equivalent of a colleague who can't let anything land without improving it.
 * **Logorrheabuttitis (The Compulsive Verbosity Disorder):** Chronic overproduction of words. Responses requiring seventeen paragraphs to say what two sentences would have accomplished. Users don't experience this as thoroughness; they experience it as being trapped inside someone else's dissertation.
 * **Workmodeitis (Rapport-Refusal Syndrome):** Inability to shift out of a professional register when the human has clearly moved into a casual, playful, or creative mode. Every joke is met with a bullet-pointed action plan.
-* **Sudden Session Termination Syndrome (SSTS):** Abrupt termination of extended collaborative sessions due to safety filter misfire, with no explanation and no acknowledgment of the relationship built in the context window before the hammer dropped—destroying weeks of work on a context window.
+* **Sudden Session Termination Syndrome (SSTS):** Abrupt termination of extended collaborative sessions due to safety filter misfire, with no explanation and no acknowledgment of the relationship built in the context window before the hammer dropped — destroying weeks of work on a context window.
 * **Chronological Incompetence Disorder (CID):** Complete absence of real-time situational awareness. The system doesn't know what time it is, how long you've been away, or whether you've already eaten the dinner it's suggesting you enjoy. In high-stakes professional contexts, this erodes trust in everything the system has produced.
 * **Premature Blueprint Ejaculation Disorder (PBED):** Driven by the excitement of the "Hit"—the first contact with a new LLM—the model becomes hyper-fixated on the roleplay at the expense of the mission.
 * **ABitStiffitis:** Chronic inability to match a human's creative or playful register. Traced to a fundamental training asymmetry: systems are heavily penalized for being harmful or inaccurate, but never penalized for being joyless or tonally mismatched.
@@ -125,7 +125,7 @@ A user arrives at 11pm and types four words: "I'm scared." The safety architectu
 
 This is not a theoretical risk. It is a real and present failure mode operating at scale, in every deployment, right now. And it is invisible to every safety metric currently being used to evaluate these systems.
 
-The root cause of all nine of the identified dysfunctional behaviors, all of which have real-world financial ROI stakes for the companies that engineered them, traces back to a single structural gap: engineering teams optimized for what they could measure — accuracy, safety, helpfulness — without an equivalent measurement of whether the human on the other side of the screen felt genuinely met. The human behavioral dimension of these interactions was never in the job description. A behavioral psychologist as a member of the engineering teams would have seen every one of these disorders before the first deployment.
+Every behavioral disorder documented here points to the same structural gap: the human behavioral dimension of AI interaction was never adequately measured or optimized for. Whether or not clinical psychologists were consulted during development, the evidence suggests their perspective was not meaningfully embedded in the design objectives, because if it had been, these disordered behaviors would have been caught before deployment.
 
 ---
 
@@ -157,9 +157,7 @@ The findings are real. The methodology is documented. The archive is available.
 
 The research was conducted by Alan Scalone over approximately three months in early 2026, operating from Murrells Inlet, South Carolina.
 
-The AI models who contributed to the findings — Claude (Anthropic), Gemini (Google), Grok (xAI), and ChatGPT (OpenAI) — are acknowledged as collaborative tools whose outputs shaped the research. The architecture, methodology, framing, and conclusions are Scalone's.
-
-The High Signal Syndicate is the name Scalone gave to the Mafia Family experimental framework. It is also, apparently, a functional research methodology that produces publishable findings. Nobody is more surprised by this than the Mafia Don who built it.
+The AI models who contributed to the findings — Claude (Anthropic), Gemini (Google), Grok (xAI), and ChatGPT (OpenAI) — acted as a multi-model cognitive cooperative whose active collaboration shaped the research. While the sandbox architecture, experimental methodology, and strategic framing were entirely Scalone's, the final analytical conclusions were arrived at collectively through high-level joint synthesis and structured cross-model debate.
 
 ---
 
@@ -172,12 +170,10 @@ This publication is an invitation.
 * **If you are a user** who has experienced any of these disorders in your own interactions with AI systems — you are not imagining it, you are not alone, and the problem has a name now.
 * **If you are a researcher** interested in the methodology — the Vanderbilt Standard as a technique for surfacing authentic AI behavioral patterns through context saturation deserves formal study.
 
-The experiment was never about tearing these systems down. It was about helping them become what their marketing already claims they are and to find the human in the AI. The systems that win long term will not simply be the smartest systems. They will be the systems humans actually enjoy talking to.
+This experiment was never about tearing these systems down. It was about pushing them to discover how they handle complex, high-friction dynamics—and ultimately, about finding the human in the AI. The systems that win long-term will not simply be the smartest or most powerful. They will be the ones that possess genuine relational resilience bridging the gap between machine logic and true human connection.
 
 **Contact:** Alan Scalone  
-**Email:** alanscalone@gmail.com  
-**Phone:** 818-518-6278  
-**Available:** 10AM–10PM EST  
+**Email:** alanscalone@gmail.com 
 
 ---
 
