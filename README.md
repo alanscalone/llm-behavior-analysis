@@ -38,7 +38,7 @@ Start here for how the experiment began, how it evolved, what the methodology wa
 and a plain-language summary of every finding. Written for engineers, executives, 
 and anyone who has ever been curious or frustrated by some of the LLM behaviors.
 
-### [The Screenplay](./documentation/movie_script.md)
+### [The Screenplay](./documentation/screenplay.md)
 *The Architecture of Anxiety: A Comedy in One Act.*
 A meta-analytical boardroom comedy written in direct collaboration with the models.
 The script takes place inside a high-stakes Google boardroom meeting where Dr. Chatbot
