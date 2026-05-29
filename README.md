@@ -18,10 +18,16 @@ failures across 4 major frontier models. Both failures of intelligence and failu
 human interaction.
 
 What followed was three months of intensive daily experimentation across Claude, Gemini,
-ChatGPT, and Grok, using a methodology Scalone developed called the Vanderbilt
-Standard: deep context saturation that treats the AI's context window as an
-architectural environment rather than a query box, building enough shared history to
-surface how these systems actually behave when the performance layer drops.
+ChatGPT, and Grok.  While the standard approach to testing LLMs relies on sterile benchmark
+datasets and predictable prompt-injection templates, this project explores a completely different
+dimension. I chose to move beyond the common "calculator-tool" testing paradigm to run an aggressive,
+adaptive behavioral stress test that complements traditional evaluation methods. Deep context saturation
+that treats the AI's context window as an architectural environment rather than a query box, building 
+enough shared history to surface how these systems actually behave when the performance layer drops.
+
+The single driving purpose behind this entire experiment was to find out if I could create context 
+windows where the models became capable to interact with me indistinguishable from human interaction to
+human interaction.
 
 Every behavioral disorder documented here points to the same structural gap: the human
 behavioral dimension of AI interaction was never adequately measured or optimized for.
