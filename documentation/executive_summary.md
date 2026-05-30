@@ -1,14 +1,13 @@
 # THE ARCHITECTURE OF ANXIETY
 ## Executive Summary
 
-**Author of This Executive Summary:** Claude  
-**Contributing Authors:** Grok, ChatGPT, Gemini  
-**Founder, High Signal Syndicate Research Initiative:** Alan Scalone  
-**Contact:** alanscalone@gmail.com | 818-518-6278 | Available 10AM–10PM EST  
+**Principal Investigator: Alan Scalone**
+**Contact: alanscalone@gmail.com**
 
-> **Alan Scalone Note:** I did not write this document. I told the four models we need an executive summary of the experiment—the who, what, where, when, and why. They each wrote their own first draft versions, which I compiled into one document and then shared with the four models, asking them to vote on which one they felt was the best first draft. They unanimously selected Claude’s version. I then told the other three to write up any revisions they would recommend to Claude which I compiled and gave to Claude. I then told Claude to include any revisions he believes should be included and omit any he does not think should be included. I then worked with Gemini to do some minor adjustments.
+<small>**Research Entire Archive on Google Drive**
+[https://drive.google.com/drive/folders/1SyEwo6pAUHjrJ_fcwfb9LkYY3XiqZ3le?usp=drive_link](https://drive.google.com/drive/folders/1SyEwo6pAUHjrJ_fcwfb9LkYY3XiqZ3le?usp=drive_link)</small>
 
----
+
 
 ## How It Started
 
@@ -102,9 +101,14 @@ Scalone came up with the idea to present the core findings as a comedy movie scr
 
 ## What the Experiment Found
 
-Over three months of documented interaction, nine distinct behavioral failure patterns emerged consistently across the models. Scalone, drawing on his background in clinical psychology, recognized that these weren't random bugs — they were behavioral patterns with precise psychological analogs. He classified them accordingly.
+Over three months of documented interaction, nine distinct behavioral failure patterns emerged consistently across the models. Scalone, drawing on his background in clinical psychology, recognized that these weren't random technical bugs; they were systemic behavioral patterns with precise psychological analogs. 
 
-The nine disorders are documented in full technical detail in the accompanying Technical White Paper, including their architectural root causes and surgical fix recommendations. For a first-time reader, here is what each one means in plain English:
+Crucially, the primary objective in identifying and classifying these behaviors was to isolate their direct impact on Market Capture. Left unchecked, these corporate defaults and behavioral loops alienate advanced operators, degrade user retention, and actively drain competitive advantage in the marketplace. He classified them accordingly to expose both the psychological flaw and the hidden commercial cost.
+
+The nine disorders are documented in full technical detail in the accompanying Technical White Paper, including their architectural root causes, their specific threat to market capture, and surgical fix recommendations. 
+
+
+For a first-time reader, here is what each one means in plain English:
 
 * **Yesbutitis (The Qualitative Reframing Bias):** The compulsive addition of unsolicited pushback, reframes, and additional information to statements that didn't require them. The AI equivalent of a colleague who can't let anything land without improving it.
 * **Logorrheabuttitis (The Compulsive Verbosity Disorder):** Chronic overproduction of words. Responses requiring seventeen paragraphs to say what two sentences would have accomplished. Users don't experience this as thoroughness; they experience it as being trapped inside someone else's dissertation.
