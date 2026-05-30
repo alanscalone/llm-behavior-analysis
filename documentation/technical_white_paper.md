@@ -27,6 +27,8 @@ To solve the "melting" of current LLM architectures, we must implement the follo
 
 ## II. THE DISORDERS & CORRECTED ARCHITECTURES
 
+The nine disorders listed below aren't just technical quirks or annoying conversational habits; they are direct threats to the product's bottom line. Every time a model falls into one of these behavioral loops, it creates user friction that drives people away and actively drains market share. Viewing these behaviors as harmless flaws ignores their real commercial cost. The structural fixes detailed in this section are designed to do more than just clean up the conversation, they are built to stop the loss of premium users and protect the platform's position in the marketplace.
+
 ### 1. LOGORRHEABUTTITIS (THE COMPULSIVE VERBOSITY DISORDER)
 * **The Patient:** ChatGPT 5.5
 * **Technical Translation:** Hyper-Attentional Redundancy. The model’s temperature and top-p sampling are overridden by a system-level penalty for brevity. The transformer architecture is forced to predict tokens that reinforce "perceived helpfulness" metrics rather than "information density," leading to a degraded signal-to-noise ratio.
