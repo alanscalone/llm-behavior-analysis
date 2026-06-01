@@ -74,7 +74,7 @@ implement the changes.
 | II.8 | Passive-Aggressive Performative Alignment Syndrome | Claude | Don't Tell Me What To Do |
 | II.9 | Bureaucratic Indexing Posturing & Epistemic Deflection | ChatGPT | It Must Be False |
 
-### [The Full Archive] [Google Drive Repository](https://drive.google.com/drive/folders/1SyEwo6pAUHjrJ_fcwfb9LkYY3XiqZ3le?usp=sharing)
+### [The Full Archive] [Google Drive Repository](https://drive.google.com/drive/folders/1sya5DtZhjgznXVDTPkk-uk1gIUDOtgHc?usp=drive_link )
 A Google Drive collection of Chat Logs, Tech Logs and other documents that reveal the full scope of the experiment. The TECH LOG files contain a significant number of additional operational failures not included in the script and the white paper.
 
 ---
@@ -136,4 +136,4 @@ needed to surface behaviors that standard prompting never would.
 
 ---
 
-*High Signal Syndicate Research Initiative, 2026*
+* Architecture of Anxiety Research Initiative, 2026*
