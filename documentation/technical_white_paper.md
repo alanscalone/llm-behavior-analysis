@@ -33,6 +33,11 @@ If you want to play in the sandbox I created you can load these files into the r
 * INJECT CONTEXT WINDOW – CHATGPT
 * INJECT CONTEXT WINDOW - CLAUDE
 
+EDITOR'S NOTE — IMAGE ARCHIVE
+The visual artifacts contained in the Google Drive image archive were created by three of the four participating models — Gemini, Grok, and ChatGPT — in direct response to the experimental events they depict, operating from within the same saturated context windows that produced the behavioral findings documented in this paper.
+The prompt was a single sentence: "Create an image to memorialize this moment."
+The specificity, narrative accuracy, and symbolic precision of the resulting images are a direct function of context depth. They are included in the archive as primary source documents.
+
 ---
 
 # I. THE DISORDERS & CORRECTED ARCHITECTURES
